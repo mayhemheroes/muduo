@@ -1,0 +1,4 @@
+project: PROJECT
+target: muduo_http_fuzzer
+cmds:
+- cmd: /out/muduo_http_fuzzer
